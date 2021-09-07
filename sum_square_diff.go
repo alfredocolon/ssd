@@ -1,5 +1,5 @@
 /*
-  By:    alfredocolon,   alfredo.j.colon@gmail.com
+  By:    alfredocolon
   Date:  23-Aug-2016
 
   Solution to projectEuler.net problem # 6
